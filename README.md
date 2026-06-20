@@ -49,22 +49,5 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
 
-## 🏛️ Architecture & Principles
-
-### Architecture
-
-- MVVM
-- MVP
-- Layered Architecture
-- Clean Architecture
-- Coordinator Pattern
-
-### Principles
-
-- SOLID
-- DRY
-- KISS
-- YAGNI
 
